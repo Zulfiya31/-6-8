@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\bin\Debug\net6.0\папка2.exe
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\bin\Debug\net6.0\папка2.deps.json
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\bin\Debug\net6.0\папка2.runtimeconfig.json
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\bin\Debug\net6.0\папка2.dll
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\bin\Debug\net6.0\папка2.pdb
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\obj\Debug\net6.0\папка2.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\obj\Debug\net6.0\папка2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\obj\Debug\net6.0\папка2.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\obj\Debug\net6.0\папка2.AssemblyInfo.cs
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\obj\Debug\net6.0\папка2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\obj\Debug\net6.0\папка2.dll
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\obj\Debug\net6.0\refint\папка2.dll
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\obj\Debug\net6.0\папка2.pdb
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\obj\Debug\net6.0\папка2.genruntimeconfig.cache
+C:\Users\user1\Desktop\проверочная папка\Папка\папка2\obj\Debug\net6.0\ref\папка2.dll
