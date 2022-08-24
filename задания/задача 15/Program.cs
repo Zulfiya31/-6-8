@@ -6,7 +6,7 @@ if(num<6)
 {
     Console.WriteLine("Сегодня будни, иди работай");
 }   
-    if(num>6)
+    if(num>=6)
     {
        Console.WriteLine("Урра, выходной"); 
     }
